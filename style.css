@@ -1,0 +1,33 @@
+body{
+    margin:100px auto;
+    text-align: center;
+    background-color: darkgray;
+}
+input{
+    color: aliceblue;
+    font-size: 30px;
+    cursor: pointer;
+    background-color: burlywood;
+}
+
+button{
+    font-size: 15px;
+    padding: 5px 10px;
+    margin:0 20px ;
+    color: white;
+    background-color: #961496;
+    border-radius: 20px;
+    cursor: pointer;
+
+}
+button:hover{
+    background-color: #4c0b4c;
+}
+textarea{
+    margin-top: 50px;
+    width: 450px;
+    height: 400px;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+}
